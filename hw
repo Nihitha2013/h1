@@ -1,0 +1,9 @@
+print("Enter your age:")
+age=int(input())
+if age>10:
+    if age<20:
+     print("you are allowed in class")
+    else:
+       print("you are not allowed in class")
+else:
+   print("you are not allowed in class")
